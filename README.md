@@ -2,6 +2,12 @@
 
 <img width="2048" alt="614192450-91e46338-c558-4bc8-993f-ac976c551492" src="https://github.com/user-attachments/assets/10564107-c840-4f85-ae79-ef17abb6cb14" />
 
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=GazeofEternity-CO&label=Sakura_Petals&color=698769)  <img alt="GitHub followers" src="https://img.shields.io/github/followers/GazeofEternity?style=flat&label=Electro's&color=ff70ae">
+</div>
+
+
 <img width="50" height="18" alt="556106665-26e42c2f-b6e1-4e1e-9e13-4980562633a1" src="https://github.com/user-attachments/assets/28bba724-18c3-4146-b97e-684b64c8665e" /> <img width="55" height="18" alt="556106723-e5b37767-798a-4ef1-8947-2e6d490bc2b1" src="https://github.com/user-attachments/assets/38f3a238-529d-4008-8b01-066fd39e4f5e" /> <img width="60" height="18" alt="556106802-afa844a3-65f1-40c1-8741-c0cf20e788b4" src="https://github.com/user-attachments/assets/02b0534c-0e5d-41a3-aca2-5562d3b411e4" /> <img width="61" height="18" alt="556132388-ad2bb5ef-ffdc-4043-a003-c42914c42674" src="https://github.com/user-attachments/assets/7fe47515-38b5-4ec6-ac84-0558f282dd15" /> <img width="150" height="20" alt="604660487-7930a6d3-3d8f-4fb2-b671-6ad7162603cd" src="https://github.com/user-attachments/assets/4208aa41-6ff7-41aa-8e77-18a9f3fbe1cb" /> <img width="150" height="20" alt="579269690-6f9e06ab-f251-4e86-86c4-c9cf37536d6e" src="https://github.com/user-attachments/assets/18306042-c489-41d0-ad76-7d74f7af0846" /> <img width="150" height="20" alt="556132562-35194de3-8c95-4b27-b874-0e28c32ff679" src="https://github.com/user-attachments/assets/6d264c1d-0e19-49a2-9106-0730f05b18da" /> <img width="150" height="20" alt="556106599-ab100f7e-9fec-4373-9cf6-9af5aba5c32d" src="https://github.com/user-attachments/assets/804307ee-3501-43a9-94e4-5820eb90f661" /> <img width="150" height="20" alt="617124868-0af2bd59-bb3a-444f-9f9b-4026fb0ee54f" src="https://github.com/user-attachments/assets/5557bb5f-945d-4eec-a89a-64fd8152a8fb" />
 
 <img width="2048" alt="614192450-91e46338-c558-4bc8-993f-ac976c551492" src="https://github.com/user-attachments/assets/10564107-c840-4f85-ae79-ef17abb6cb14" />
