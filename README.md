@@ -16,5 +16,6 @@
 <div align="center">
 This GitHub was created by: 
   
-<img width="1600" alt="636695767-1b0125c1-5655-4538-8672-4bda9303f85c" src="https://github.com/user-attachments/assets/bc47c026-e544-4ccf-acce-ce711a240208" />
+[<img width="1600" alt="636695767-1b0125c1-5655-4538-8672-4bda9303f85c" src="https://github.com/user-attachments/assets/bc47c026-e544-4ccf-acce-ce711a240208" />](https://github.com/PinkiePieExplosion)
 </div>
+(Click this to go to his page) ^
